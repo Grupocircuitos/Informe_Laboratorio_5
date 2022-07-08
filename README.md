@@ -52,9 +52,11 @@ Hallando el voltaje de Thévenin:
 
 ![image](https://user-images.githubusercontent.com/105887502/177910305-570c5220-ed13-4396-9728-ede65f3b00e3.png)
 
+![image](https://user-images.githubusercontent.com/105887502/177910339-a596163e-486e-49bb-9df8-b2ed3f0d0be6.png)
 
+Mediante el uso de la calculadora Symbolab encontramos las soluciones.
 
-
+![image](https://user-images.githubusercontent.com/105887502/177910365-c6dfa4a1-6d91-4bf1-a5c7-d52b60cfa7cc.png)
 
 
 
