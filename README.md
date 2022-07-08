@@ -58,6 +58,25 @@ Mediante el uso de la calculadora Symbolab encontramos las soluciones.
 
 ![image](https://user-images.githubusercontent.com/105887502/177910365-c6dfa4a1-6d91-4bf1-a5c7-d52b60cfa7cc.png)
 
+Las soluciones para el sistema de ecuaciones son:
+
+![image](https://user-images.githubusercontent.com/105887502/177910466-0e0395b7-09ae-4e06-b2f2-881ba9e1ad8e.png)
+
+I1 corresponde al valor de ae I2 corresponde al valor de b, por lo que:
+
+![image](https://user-images.githubusercontent.com/105887502/177910501-4f6c6b3a-d90f-412e-927d-6d423269a01c.png)
+
+Por tanto, el valor de voltaje de Thévenin es
+
+![image](https://user-images.githubusercontent.com/105887502/177910528-fc6fc913-a963-4014-8de6-991937519706.png)
+
+Explicación:
+
+Para encontrar el voltaje de Thévenin en primer lugar redibujamos el circuito ahora con la resistencia R5 abierta, es así que, el voltaje que hay entre las terminales abiertas va a ser el mismo voltaje que recupera por la resistencia R3. Para lo que, mediante el método de mallas, hallamos la corriente que pasa a través de la resistencia R3 y luego despejamos el voltaje de la ley de ohm y reemplazamos los valores de corriente y resistencia. Finalmente obtenemos el valor del voltaje de Thévenin.
+
+Hallando la resistencia de Thévenin:
+
+![image](https://user-images.githubusercontent.com/105887502/177910556-2a6fc5d8-503b-4a3f-9efd-c21c02730dc9.png)
 
 
 
