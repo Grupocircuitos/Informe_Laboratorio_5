@@ -94,6 +94,7 @@ Hallando voltaje y corriente de circuito original:
 
 ![image](https://user-images.githubusercontent.com/105887502/177911138-647ce813-774a-4bc4-8eba-a12d306da22d.png)
 
+![image](https://user-images.githubusercontent.com/105887502/177911194-cd997ddb-55b8-44d5-b3dc-99dab64dd19d.png)
 
 
 
