@@ -80,4 +80,25 @@ Hallando la resistencia de Thévenin:
 
 ![image](https://user-images.githubusercontent.com/105887502/177910858-eb19e64f-2d4a-4e87-b3b1-d7880518ad7f.png)
 
+Explicación:
+
+Para encontrar la resistencia de Thévenin en primer lugar redibujamos el circuito teniendo en cuenta que igualamos a cero el voltaje de las dos fuentes. Por lo que ya con el nuevo circuito, identificamos cuáles son las resistencias que están en paralelo y cuáles, en serie, para posterior así ir desarrollando la suma de las resistencias o ir encontrando las resistencias equivalentes. Finalmente se encontró la resistencia de Thévenin.
+
+Cálculos analíticos realizados para la tabla 5.2
+
+![image](https://user-images.githubusercontent.com/105887502/177911089-ad2c4084-2def-4729-8b37-83f55230dbbb.png)
+
+Hallando voltaje y corriente de circuito original:
+
+![image](https://user-images.githubusercontent.com/105887502/177911120-bb774e25-093c-4d9a-9a11-3a48ed282003.png)
+
+![image](https://user-images.githubusercontent.com/105887502/177911138-647ce813-774a-4bc4-8eba-a12d306da22d.png)
+
+
+
+
+
+
+
+
 
