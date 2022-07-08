@@ -96,8 +96,58 @@ Hallando voltaje y corriente de circuito original:
 
 ![image](https://user-images.githubusercontent.com/105887502/177911194-cd997ddb-55b8-44d5-b3dc-99dab64dd19d.png)
 
+Las soluciones para el sistema de ecuaciones son:
 
+![image](https://user-images.githubusercontent.com/105887502/177911285-f8bba428-4a66-4dcc-9911-03ce2102517d.png)
 
+Por lo que, nos interesa el valor de I3 que corresponde a c.
+
+![image](https://user-images.githubusercontent.com/105887502/177911308-9a9d1df2-5141-4240-9270-75ea3b1553cc.png)
+
+Y el voltaje en R5 es:
+
+![image](https://user-images.githubusercontent.com/105887502/177911328-73ad5d91-2f1e-4715-84d5-bdd211b455a0.png)
+
+Explicación:
+
+Para hallar voltaje y corriente que pasan por la resistencia R5, mediante el método de mallas calculamos la intensidad que recupera dicha rama. Una vez obtenida la intensidad, usamos la fórmula de la ley de ohm para encontrar el valor del voltaje.
+
+Hallando voltaje y corriente de circuito de Thévenin:
+
+![image](https://user-images.githubusercontent.com/105887502/177911355-d51d5910-9cf3-4383-a348-ade051f3bf8e.png)
+
+![image](https://user-images.githubusercontent.com/105887502/177911365-96907249-697f-432e-86bc-9a872af3f9e0.png)
+
+Y el voltaje en R5 es:
+
+![image](https://user-images.githubusercontent.com/105887502/177911382-c0c82537-68e7-4287-81b3-b4e2c3203dcb.png)
+
+Circuito en tinkercad con el potenciómetro, sin embargo por la variación la resistencia de este componente es de 300 ohmios
+
+![image](https://user-images.githubusercontent.com/105887502/177911401-3d5915e8-69d6-4c49-a701-d19a1918be61.png)
+
+Explicación:
+
+Para hallar voltaje y corriente en el circuito equivalente de Thévenin, al ser un circuito resistivo en serie, sume y obtuve la resistencia total y con eso se halló el valor de corriente gracias a la ley de ohm, mismo que al despejar el voltaje y reemplazando valores, nos ayudó a encontrar dicho voltaje que pasa por R5.
+
+4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
+
+![image](https://user-images.githubusercontent.com/105887502/177911550-f6f21b69-4ada-4089-b103-88867e62dfcf.png)
+
+5. VIDEO
+
+6. CONCLUSIONES
+
+- Con respecto al Teorema de Thévenin si tiene que este establece que al existir dos terminales, en este caso A y B, dentro de la estructura de un circuito eléctrico lineal, el mismo puede ser reemplazado por un circuito equivalente más simple. Es importante mencionar que esto se puede realizar debido a que, la teoría expresa que a través de la resistencia transformada la corriente aun seguira circulando por el circuito.
+- Dentro del Teorema de Thévenin a la fuente de voltaje se la conoce como el "voltaje de Thévenin", el (VTH) es el voltaje en circuito abierto entre las terminales del circuito para el cual se requiere el equivalente. Por otro lado, la resistencia en serie se le conoce como "resistencia de Thévenin", la (RTH) es la resistencia equivalente vista de la terminal del circuito, cabe mencionar que esto se realiza con respecto al equivalente de Thévenin y con las fuentes de alimentación en cero.
+
+7. BIBLIOGRAFÍA
+
+- Floyd, T. (2007). Principios de circuitos electricos. Ciudad de México: Pearson Educación.
+- LATAM. (24 de abril de 2021). Obtenido de https://www.mecatronicalatam.com/es/tutoriales/teoria/teorema-de-thevenin-y-norton/
+- Mariño, S. (14 de marzo de 2017). Obtenido de https://es.slideshare.net/norenelson/anlisis-lineas-cortas-medias-y-largas?next_slideshow=73134883
+- Mi universo electronico. (19 de septiembre de 2020). Obtenido de https://miuniversoelectronico.com/el-teorema-de-thevenin/
+- Obando, L. (10 de noviembre de 2019). Obtenido de https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/
 
 
 
