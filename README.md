@@ -78,5 +78,6 @@ Hallando la resistencia de Thévenin:
 
 ![image](https://user-images.githubusercontent.com/105887502/177910556-2a6fc5d8-503b-4a3f-9efd-c21c02730dc9.png)
 
+![image](https://user-images.githubusercontent.com/105887502/177910858-eb19e64f-2d4a-4e87-b3b1-d7880518ad7f.png)
 
 
