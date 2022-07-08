@@ -136,6 +136,8 @@ Para hallar voltaje y corriente en el circuito equivalente de Thévenin, al ser 
 
 5. VIDEO
 
+https://youtu.be/qj1E9e_mz9k
+
 6. CONCLUSIONES
 
 - Con respecto al Teorema de Thévenin si tiene que este establece que al existir dos terminales, en este caso A y B, dentro de la estructura de un circuito eléctrico lineal, el mismo puede ser reemplazado por un circuito equivalente más simple. Es importante mencionar que esto se puede realizar debido a que, la teoría expresa que a través de la resistencia transformada la corriente aun seguira circulando por el circuito.
